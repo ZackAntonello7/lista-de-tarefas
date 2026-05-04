@@ -1,4 +1,4 @@
-# Lista de Tarefas em Python 📋
+# Lista de Tarefas em Python 
 
 Projeto simples desenvolvido em Python para gerenciamento de tarefas no terminal.
 
@@ -9,3 +9,4 @@ Projeto simples desenvolvido em Python para gerenciamento de tarefas no terminal
 
 ## Tecnologias
 - Python
+## Thierry Antonello Pengo
